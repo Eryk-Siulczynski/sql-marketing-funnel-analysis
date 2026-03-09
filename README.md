@@ -1,8 +1,9 @@
 # sql-marketing-funnel-analysis
 Analysis of marketing funnel using SQL (Codecademy project)
 
-## Project Overview
-krótko co analizujesz
+## Business Question
+
+_Where in the marketing funnel do most users drop off?_
 
 ## Dataset
 
