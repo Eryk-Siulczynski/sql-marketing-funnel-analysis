@@ -5,6 +5,9 @@ Analysis of marketing funnel using SQL (Codecademy project)
 
 _Where in the marketing funnel do most users drop off?_
 
+## Project Overview
+This project analyzes the customer journey in an online eyewear store using SQL.
+
 ## Dataset
 
 The dataset used in this project comes from the Codecademy SQL course.
@@ -14,13 +17,28 @@ The SQL queries provided here can be executed on the dataset available within th
 
 Screenshots of query results are included to demonstrate the analysis output.
 
-## Analysis Goal
-co chcesz sprawdzić
+All SQL queries are available in:
+`queries.sql`
 
-## SQL Queries
-gdzie jest kod
+## Analysis Steps
+1. Inspected the structure of source tables.
+2. Joined quiz, home_try_on, and purchase tables to create a funnel view.
+3. Calculated conversion rates between quiz, try-on, and purchase stages.
+4. Compared purchase rates by the number of pairs ordered.
+
+## Results
+### Survey table preview
+
+
+### Funnel table preview
+
+
+### Conversion results
+
 
 ## Insights
-wnioski z analizy
+
+
+## Conclusion
 
 
