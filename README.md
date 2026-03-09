@@ -1,17 +1,25 @@
 # sql-marketing-funnel-analysis
 Analysis of marketing funnel using SQL (Codecademy project)
 
-Project Overview
+## Project Overview
 krótko co analizujesz
 
-Dataset
-jakie są tabele
+## Dataset
 
-Analysis Goal
+The dataset used in this project comes from the Codecademy SQL course.
+
+Due to licensing and copyright restrictions, the original dataset is not included in this repository.  
+The SQL queries provided here can be executed on the dataset available within the Codecademy learning environment.
+
+Screenshots of query results are included to demonstrate the analysis output.
+
+## Analysis Goal
 co chcesz sprawdzić
 
-SQL Queries
+## SQL Queries
 gdzie jest kod
 
-Insights
+## Insights
 wnioski z analizy
+
+
