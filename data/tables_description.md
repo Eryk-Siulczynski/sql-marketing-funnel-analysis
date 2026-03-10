@@ -1,4 +1,4 @@
-<img width="330" height="54" alt="image" src="https://github.com/user-attachments/assets/01e8ca82-fc3c-4904-a48b-7844e1e7181a" />
+
 ## survey
 - `question` – survey question asked to the user
 - `user_id` – unique user identifier
