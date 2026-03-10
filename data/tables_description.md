@@ -1,4 +1,4 @@
-
+<img width="330" height="54" alt="image" src="https://github.com/user-attachments/assets/01e8ca82-fc3c-4904-a48b-7844e1e7181a" />
 ## survey
 - `question` – survey question asked to the user
 - `user_id` – unique user identifier
@@ -45,9 +45,10 @@ To better understand purchasing behavior, the data was segmented by the number o
 
 Results:
 
-number_of_pairs |	number_of_clients |	purchases |	purchase_rate
-3 pairs	        | 379	              | 201	      | 53%
-5 pairs	        | 371	              | 294	      | 79%
+| number_of_pairs | number_of_clients | purchases | purchase_rate |
+|-----------------|------------------|-----------|---------------|
+| 3 pairs         | 379              | 201       | 53%           |
+| 5 pairs         | 371              | 294       | 79%           |
 
 Key insight:
 
