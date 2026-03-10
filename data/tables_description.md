@@ -33,6 +33,7 @@ Using this joined dataset, the following metrics were calculated:
 Conversion rates:
 Quiz → Home Try-On:
 750 / 1000 = 75%
+
 Home Try-On → Purchase:
 495 / 750 = 66%
 
