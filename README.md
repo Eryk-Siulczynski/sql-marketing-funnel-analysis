@@ -6,7 +6,7 @@ Analysis of marketing funnel using SQL (Codecademy project)
 _Where in the marketing funnel do most users drop off?_
 
 ## Project Overview
-This project analyzes the customer journey in an online eyewear store using SQL.
+This project analyzes customer progression through the marketing funnel of an online eyewear store using SQL.
 
 ## Dataset
 
@@ -28,12 +28,15 @@ All SQL queries are available in:
 
 ## Results
 ### Survey table preview
+<img width="411" height="114" alt="image" src="https://github.com/user-attachments/assets/a66c224c-ca69-48c8-a086-40f73a1fc62f" />
 
 
 ### Funnel table preview
+<img width="609" height="184" alt="image" src="https://github.com/user-attachments/assets/503b1d0f-784d-4470-b3e1-ae78e56c801b" />
 
 
 ### Conversion results
+<img width="618" height="54" alt="image" src="https://github.com/user-attachments/assets/7cd2f3c9-429a-4576-9120-d6ed940521d7" />
 
 
 ## Insights
