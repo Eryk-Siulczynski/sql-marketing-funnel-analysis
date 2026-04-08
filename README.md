@@ -40,8 +40,13 @@ All SQL queries are available in:
 
 
 ## Insights
-
+- The largest drop-off occurs between the quiz and home try-on stage, indicating that many users do not proceed after initial engagement.
+- Users who complete the home try-on stage show a relatively high likelihood of purchase, suggesting strong intent once they reach this step.
+- Offering more pairs in the home try-on stage significantly increases conversion: users selecting 5 pairs have a higher purchase rate (~70%) compared to those selecting 3 pairs (~53%).
+- The number of pairs selected is a key driver of conversion, indicating that broader product exposure improves purchase probability.
 
 ## Conclusion
-
+- The main bottleneck in the funnel is the transition from quiz completion to home try-on. Improving engagement at this stage could increase overall conversions.
+- Encouraging users to select more pairs during the home try-on stage may further improve purchase rates.
+- Optimizing the early funnel stage and leveraging product exposure are the most impactful opportunities for increasing revenue.
 
