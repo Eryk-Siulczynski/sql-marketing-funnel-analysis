@@ -36,7 +36,10 @@ All SQL queries are available in:
 
 
 ### Conversion results
-<img width="618" height="54" alt="image" src="https://github.com/user-attachments/assets/7cd2f3c9-429a-4576-9120-d6ed940521d7" />
+| number_of_pairs | number_of_clients | purchases | purchase_rate |
+|-----------------|------------------|-----------|---------------|
+| 3 pairs         | 379              | 201       | 53%           |
+| 5 pairs         | 371              | 294       | 79%           |
 
 
 ## Insights
